@@ -5,7 +5,7 @@ Repository for Documentations [Dicoding - Belajar Membuat Aplikasi Android untuk
 Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Screenshots Final Submission
-![Group 1](https://github.com/MIF-Developer-Technology/app/src/main/res/drawable/math_kids_banner.png)&nbsp;
+![Group 1](https://github.com/MIF-Developer-Technology/MathGame/app/src/main/res/drawable/math_kids_banner.png)&nbsp;
 
 
 
