@@ -1,11 +1,11 @@
 # Kids Math | Games App | With Kotlin 
-Repository for Documentations [Dicoding - Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
+Repository for [Kids Math](https://play.google.com/store/apps/details?id=com.mifdev.mathgame) Game App
 
 ## Purpose
 Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indonesia](https://www.dicoding.com/)
 
 ## Screenshots Final Submission
-![Group 1](https://github.com/MIF-Developer-Technology/MathGame/app/src/main/res/drawable/math_kids_banner.png)&nbsp;
+![Group 1](https://github.com/MIF-Developer-Technology/MathGame/blob/main/screenshoot/math_kids_banner.png)&nbsp;
 
 
 
@@ -20,7 +20,7 @@ Record Project Belajar Membuat Aplikasi Android untuk Pemula from [Dicoding Indo
 - [x] Display Profile button for detail information app
 
 ## Installation
-Download and install beta version [here](https://github.com/Miftakun/MU-Player-Football-nformation-App/releases/download/v.1.0-beta/app-debug.apk)
+Contact Me via gmail for Download and install beta version or click [here](https://github.com/Miftakun/MU-Player-Football-nformation-App/releases/download/v.1.0-beta/app-debug.apk)
 
 ## Author
-* #### Miftakun Niam
+* #### MIF Developer Technology Team
