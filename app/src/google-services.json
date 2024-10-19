@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "506749856035",
+    "project_id": "mifdev-project",
+    "storage_bucket": "mifdev-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506749856035:android:ae8818ccf7c34041f88496",
+        "android_client_info": {
+          "package_name": "com.mifdev.mathgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506749856035-doofl6rnjm4i9guq5m3vhtvlrre8o3c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mifdev.mathgame",
+            "certificate_hash": "74cde9223b46ec4a8ac551bcf07931fdad91084a"
+          }
+        },
+        {
+          "client_id": "506749856035-4elkqabsb146gd4alq7bkb52tbmsfq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_g9aLmgpHI_eE_DGrnP-UlMRUbR213Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506749856035-4elkqabsb146gd4alq7bkb52tbmsfq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
